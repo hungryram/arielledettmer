@@ -78,3 +78,5 @@ fields:
       labelField: 
     label: Group
   label: Section One
+pages:
+- data/home.yaml
