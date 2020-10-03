@@ -24,12 +24,10 @@ body h2.cursive {
 }
 
 a.primary-btn {
-    background: #BB7575;
+    background: #C7D0D8;
     padding: 15px 35px;
     color: #fff;
-    font-family: 'Abhaya Libre', serif;
-    font-weight: 500;
-    font-size: 18pt;
+    font-family: 'Mulish', sans-serif;
 }
 
 a.secondary-btn {
@@ -37,9 +35,7 @@ a.secondary-btn {
     border: 2px solid black;
     padding: 15px 35px;
     color: #000;
-    font-family: 'Abhaya Libre', serif;
-    font-weight: 500;
-    font-size: 18pt;
+    font-family: 'Mulish', sans-serif;
 }
 
 input.input,
@@ -61,7 +57,7 @@ body h3.subtitle,
 body h4.subtitle,
 body h5.subtitle,
 body h6.subtitle {
-    font-family: 'Oswald', sans-serif;
+    font-family: 'Inter', sans-serif;
     color: rgba(0,0,0,1);
     line-height: 1.2;
     letter-spacing: 0em;
@@ -88,7 +84,13 @@ body .content h2,
 body .content h3,
 body .content h4,
 body .content h5,
-body .content h6 {
+body .content h6,
+h1.title,
+h2.title,
+h3.title,
+h4.title,
+h5.title,
+h6.title {
     font-family: 'Inter', sans-serif;
 }
 
@@ -102,4 +104,18 @@ strong,
 em {
     font-family: 'Mulish', sans-serif;
     line-height: 2;
+}
+
+/* NAVBAR */
+
+div.top-bar {
+    background: #C7D0D8;
+    color: #222222;
+    padding: 6px;
+}
+
+/* SECTION ONE */
+
+div.section-one {
+    background: #F5F7FA;
 }

@@ -1,10 +1,22 @@
-<div class="section">
+{{ $sectionOne := .Site.Data.home.section_one }}
+<div class="big-section section-one">
     <div class="container">
         <div class="columns">
             <div class="column has-text-centered">
-                <h2 class="title is-3">More Reasons to Love Us</h2>
-                <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Inventore a in nemo vel, dolor quia alias voluptatum, exercitationem earum veritatis numquam beatae fuga, quo nisi quam itaque! Officia, repudiandae libero!</p>
+                {{ if $sectionOne.heading }}<h2 class="title is-3">{{ $sectionOne.heading }}</h2>{{ end }}
+                {{ if $sectionOne.body}}<p>{{ $sectionOne.body | markdownify }}</p>{{ end }}
             </div>
+        </div>
+        <div class="columns is-multiline">
+            {{ range $sectionOne.group }}
+            <div class="column is-4">
+                <div class="group">
+                    <img src="{{ .image }}" alt="">
+                    <h2 class="title is-4 mt-5">{{ .heading }}</h2>
+                    <p>{{ .body }}</p>
+                </div>
+            </div>
+            {{ end }}
         </div>
     </div>
 </div>
