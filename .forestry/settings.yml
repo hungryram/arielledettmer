@@ -11,7 +11,7 @@ sections:
   path: data/home.yaml
   label: Home Content
 - type: document
-  path: seo.yaml
+  path: data/seo.yaml
   label: SEO
 - type: directory
   path: content
