@@ -1,4 +1,80 @@
 ---
 label: Home Design
 hide_body: true
-fields: []
+fields:
+- name: hero
+  type: field_group
+  config: {}
+  fields:
+  - name: image
+    type: file
+    config:
+      maxSize: 64
+    label: Image
+  - name: heading
+    type: text
+    config:
+      required: false
+    label: Heading
+  - name: body
+    type: text
+    config:
+      required: false
+    label: Body
+  - name: link
+    type: text
+    config:
+      required: false
+    label: Link
+  - name: link_text
+    type: text
+    config:
+      required: false
+    label: Link Text
+  label: Hero
+- name: section_one
+  type: field_group
+  config: {}
+  fields:
+  - name: heading
+    type: text
+    config:
+      required: false
+    label: Heading
+  - name: body
+    type: textarea
+    default: ''
+    config:
+      required: false
+      wysiwyg: true
+      schema:
+        format: markdown
+    label: Body
+  - name: group
+    type: field_group_list
+    fields:
+    - name: heading
+      type: text
+      config:
+        required: false
+      label: Heading
+    - name: body
+      type: textarea
+      default: ''
+      config:
+        required: false
+        wysiwyg: false
+        schema:
+          format: markdown
+      label: Body
+    - name: image
+      type: file
+      config:
+        maxSize: 64
+      label: Image
+    config:
+      min: 
+      max: 
+      labelField: 
+    label: Group
+  label: Section One
