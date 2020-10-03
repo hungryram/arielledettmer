@@ -4,6 +4,18 @@ auto_deploy: false
 admin_path: 
 webhook_url: 
 sections:
+- type: document
+  path: data/profile.yaml
+  label: Profile
+  match: "**/*"
+- type: document
+  path: data/home.yaml
+  label: Home Content
+  match: "**/*"
+- type: document
+  path: seo.yaml
+  label: SEO
+  match: "**/*"
 - type: directory
   path: content
   label: Pages
