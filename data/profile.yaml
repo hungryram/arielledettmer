@@ -1,13 +1,13 @@
 ---
 primary_contact:
-  state: []
+  state: ''
   full_name: ''
   email: ''
   phone: ''
   street_address: ''
   city: ''
   zip_code: 
-company_name: ''
+company_name: Someda Marketing and Design
 social_accounts:
   instagram: ''
   twitter: ''
