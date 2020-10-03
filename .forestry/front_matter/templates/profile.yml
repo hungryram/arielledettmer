@@ -149,3 +149,5 @@ fields:
       required: false
     label: Pinterest
   label: Social Accounts
+pages:
+- data/profile.yaml
