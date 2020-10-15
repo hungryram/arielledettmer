@@ -117,9 +117,13 @@ div.container {
 /* NAVBAR */
 
 div.top-bar {
-    background: #C7D0D8;
+    background: #202a34;
     color: #222222;
     padding: 6px;
+}
+
+div.top-bar p {
+    color: #fff;
 }
 
 nav.navbar {
@@ -143,6 +147,31 @@ div.hero-body p {
 
 div.hero-body h4.title {
     color: #e87931;
+}
+
+div.box:hover svg {
+    fill: #e87931;
+    stroke: #fff;
+    transition: all .3s ease;
+}
+
+div.box {
+    transition: all .3s ease;
+}
+
+div.box p {
+    color: #898989;
+}
+
+/* BOXES */
+
+div.boxes div.box {
+    transition: .3s;
+}
+
+div.boxes div.box:hover {
+    transform: translateY(-10px);
+    transition: .3s;
 }
 
 /* SECTION ONE */
