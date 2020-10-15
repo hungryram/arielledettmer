@@ -1,10 +1,12 @@
 {{ $hero := .Site.Data.home.hero }}
-{{ partial "global/navbar" . }}
-<section class="hero is-large-with-navbar">
+<section class="hero is-fullheight-with-navbar" style="background:url(/uploads/bg2.jpg) no-repeat center;background-size:cover">
+  {{ partial "global/navbar" . }}
+
     <div class="hero-body">
       <div class="container">
         <div class="columns is-vcentered">
             <div class="column">
+              <h4 class="title is-6">Top Rated Team</h4>
               <h1 class="title is-1 has-text-weight-bold">{{ $hero.heading }}</h1>
                 <p>{{ $hero.body }}</p><br>
                 <a href="{{ $hero.link }}" class="primary-btn">{{ $hero.link_text }}</a>

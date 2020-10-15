@@ -1,7 +1,7 @@
  <!-- Hero head: will stick at the top -->
  <div class="top-bar">
    <div class="container">
-     <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Deserunt dolore odio nemo assumenda</p>
+     <p class="is-size-7">Lorem ipsum dolor sit amet consectetur, adipisicing elit. Deserunt dolore odio nemo assumenda</p>
    </div>
  </div>
   <div class="hero-head">
@@ -9,8 +9,8 @@
      <div class="container">
        <div class="navbar-brand">
          <a class="navbar-item" href="{{ .Site.BaseURL }}">
-           {{ if .Site.Data.design.branding.logo }}
-             <img src="{{ .Site.Data.design.branding.logo | absURL }}" alt="{{ .Site.Data.profile.primary_company_name }}" width="200">
+           {{ if .Site.Data.appearance.branding.logo }}
+             <img src="{{ .Site.Data.appearance.branding.logo | absURL }}" alt="{{ .Site.Data.profile.primary_company_name }}" width="100">
            {{ else }}
            <h1 class="title is-4">{{ .Site.Data.profile.company_name }}</h1>
            {{ end }}

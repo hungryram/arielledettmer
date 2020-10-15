@@ -24,7 +24,7 @@ body h2.cursive {
 }
 
 a.primary-btn {
-    background: #C7D0D8;
+    background: #e87931;
     padding: 15px 35px;
     color: #fff;
     font-family: 'Mulish', sans-serif;
@@ -91,7 +91,7 @@ h3.title,
 h4.title,
 h5.title,
 h6.title {
-    font-family: 'Inter', sans-serif;
+    font-family: 'Noto Serif', serif;
 }
 
 body p,
@@ -106,12 +106,43 @@ em {
     line-height: 2;
 }
 
+/* OVERWRITE */
+
+@media screen and (min-width: 1408px){
+div.container {
+    max-width: 1100px;
+}
+}
+
 /* NAVBAR */
 
 div.top-bar {
     background: #C7D0D8;
     color: #222222;
     padding: 6px;
+}
+
+nav.navbar {
+    box-shadow: 0px 13px 17px #dadada;
+}
+
+a.navbar-item img {
+    max-height: none;
+}
+
+a.navbar-item {
+    color: #252525;
+}
+
+/* HERO */
+
+div.hero-body h1.title,
+div.hero-body p {
+    color: #252525;
+}
+
+div.hero-body h4.title {
+    color: #e87931;
 }
 
 /* SECTION ONE */
