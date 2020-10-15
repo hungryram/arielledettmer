@@ -1,4 +1,4 @@
-baseURL = "http://example.org/"
+baseURL = "https://someda.netlify.app/"
 languageCode = "en-us"
 [[menu.main]]
 name = "Contact"
