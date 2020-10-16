@@ -28,6 +28,8 @@ a.primary-btn {
     padding: 15px 35px;
     color: #fff;
     font-family: 'Mulish', sans-serif;
+    margin-top:20px;
+    border-radius: 50px;
 }
 
 a.secondary-btn {
@@ -64,6 +66,7 @@ body h6.subtitle {
     font-size: 34px;
     font-weight: 400;
     font-style: normal;
+    color: #e87931;
 }
 
 h1.page-title,
@@ -178,4 +181,10 @@ div.boxes div.box:hover {
 
 div.section-one {
     background: #F5F7FA;
+}
+
+/* FOOTER */
+
+footer.footer {
+    background: #202A34;
 }

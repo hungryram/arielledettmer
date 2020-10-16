@@ -4,12 +4,10 @@
 {{ $footerSocial := .Site.Data.profile.social_media }}
 <footer class="footer">
   <div class="container">
-    <div class="columns">
-      <div class="column has-text-centered">
-        <h2 class="title cursive is-1 mb-0 has-text-black has-text-weight-normal">{{ .Site.Data.profile.company_name }}</h2>
-        {{ if $footerDesign.footer_bio }}
-          <p class="pb-6 is-size-6">{{ $footerDesign.footer_bio }}</p>
-        {{ end }}
+    <div class="columns is-variable is-8">
+      <div class="column">
+        <h2 class="title is-4 mb-0 has-text-white has-text-weight-normal">{{ .Site.Data.profile.company_name }}</h2>
+        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Deleniti beatae est consectetur, optio sunt vero quidem nam placeat debitis officiis quisquam officia incidunt repellat minima nemo cumque culpa eius? Officiis?</p>
         <ul class="footer-social">
           {{ if $footerSocial.facebook }}<li><a href="{{ $footerSocial.facebook }}" target="_blank">Facebook</a></li>{{ end }}
           {{ if $footerSocial.instagram }}<li><a href="{{ $footerSocial.instagram }}" target="_blank">Instagram</a></li>{{ end }}
@@ -24,6 +22,22 @@
           {{ if $footerSocial.trulia }}<li><a href="{{ $footerSocial.trulia }}" target="_blank">Trulia</a></li>{{ end }}
           {{ if $footerSocial.yelp }}<li><a href="{{ $footerSocial.yelp }}" target="_blank">Yelp</a></li>{{ end }}
         </ul>
+      </div>
+      <div class="column">
+        <h4 class="title is-5 has-text-white has-text-weight-normal">Contact</h4>
+      </div>
+      <div class="column">
+        <h4 class="title is-5 has-text-white has-text-weight-normal">Helpful Links</h4>
+        <ul>
+          <li><a href="">Links</a></li>
+          <li><a href="">Links</a></li>
+          <li><a href="">Links</a></li>
+          <li><a href="">Links</a></li>
+        </ul>
+      </div>
+      <div class="column">
+        <h4 class="title is-5 has-text-white has-text-weight-normal">Latest News</h4>
+
       </div>
     </div>
     <div class="columns mb-0">
