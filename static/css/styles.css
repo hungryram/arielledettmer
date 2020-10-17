@@ -187,4 +187,20 @@ div.section-one {
 
 footer.footer {
     background: #202A34;
+    padding: 3rem 1.5rem 0rem;
+}
+
+footer.footer h2.title,
+footer.footer h4.title,
+footer.footer p,
+footer.footer li a,
+footer.footer small {
+    font-size: .87rem;
+    color: #fff;
+}
+
+footer.footer ul li {
+    display: flex;
+    align-items: center;
+    margin-top: 10px;
 }
