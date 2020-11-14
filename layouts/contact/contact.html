@@ -1,0 +1,45 @@
+{{ define "main" }}
+<div class="section">
+    <div class="container">
+        <div class="columns">
+            <div class="column is-half is-offset-one-quarter box pt-6 pb-6 pl-6 pr-6">
+                <h2 class="title is-4">Let's help each other grow</h2>
+                <p class="mb-5">Send us a quick email and we'll get back to you shortly</p>
+                <form name="contact" method="POST" netlify-honeypot="bot-field" data-netlify="true">
+                    <input name="bot-field" type="hidden" />
+                    <input type="hidden" name="subject" value="contact form" />
+                    <div class="field">
+                        <div class="control">
+                          <input class="input" type="text" placeholder="Your Name" name="name">
+                        </div>
+                      </div>
+                <div class="field">
+                    <div class="control">
+                      <input class="input" type="email" placeholder="Your Email" name="email" required>
+                    </div>
+                  </div>
+                  <div class="field">
+                    <div class="control">
+                      <textarea class="textarea" placeholder="Discuss your project or ask a question!" name="message" required></textarea>
+                    </div>
+                  </div>
+                  
+                  <div class="field is-grouped">
+                    <div class="control">
+                      <button class="primary-btn">Submit</button>
+                    </div>
+                  </div>
+                  <div class="field mt-5">
+                    <div class="control content">
+                      <label class="checkbox">
+                        <input type="checkbox" required name="consent form">
+                        <span class="is-size-7">By submitting this form you confirm you have read and agreed to our <a href="/legal/terms-and-conditions">Terms and Conditions</a> and <a href="/legal/privacy-policy">Privacy Policy.</a> You consent to having this website store the submitted information so we can respond to the inquiry. Don't worry, you can request to have your information removed anytime.</span>
+                      </label>
+                    </div>
+                  </div>
+                  </form>
+            </div>
+        </div>
+    </div>
+</div>
+{{ end }}
