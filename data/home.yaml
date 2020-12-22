@@ -29,3 +29,22 @@ section_one:
       nemo vel, dolor quia alias voluptatum, exercitationem earum veritatis numquam
       beatae fuga, quo nisi quam itaque! Officia, repudiandae libero!
     image: "/uploads/demo-2.png"
+home_page_service:
+  featured:
+  - heading: Branding
+    text: Establish your online presence
+    link: "/services"
+  - heading: Social Media
+    text: Grow your social presence
+    link: "/services"
+  - link: "/services"
+    heading: Videography
+    text: Professional videos for your business
+introduction:
+  subtitle: About
+  heading: The Best in the Industry
+  body: |-
+    Lorem ipsum dolor, sit amet consectetur adipisicing elit. Incidunt quae suscipit eveniet sint veniam, perferendis optio voluptates inventore assumenda, mollitia aliquam aut dolore minima, odio tempora neque. Nostrum, natus tenetur.
+
+    Lorem ipsum dolor sit amet consectetur adipisicing elit. Harum deleniti perspiciatis debitis odio similique nobis, unde pariatur? Sit illum ratione ab laboriosam repellendus vel eius? Impedit fuga quis neque quibusdam.
+  image: ''
