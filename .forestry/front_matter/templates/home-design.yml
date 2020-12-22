@@ -32,6 +32,63 @@ fields:
       required: false
     label: Link Text
   label: Hero
+- name: home_page_service
+  type: field_group
+  config: {}
+  fields:
+  - name: featured
+    type: field_group_list
+    fields:
+    - name: heading
+      type: text
+      config:
+        required: false
+      label: Heading
+    - name: text
+      type: text
+      config:
+        required: false
+      label: Text
+    - name: link
+      type: text
+      config:
+        required: false
+      label: Link
+    config:
+      min: 
+      max: 
+      labelField: 
+    label: Featured
+  label: Home Page Service
+- name: introduction
+  type: field_group
+  config: {}
+  fields:
+  - name: subtitle
+    type: text
+    config:
+      required: false
+    label: Subtitle
+  - name: heading
+    type: text
+    config:
+      required: false
+    label: Heading
+  - name: body
+    type: textarea
+    default: ''
+    config:
+      required: false
+      wysiwyg: true
+      schema:
+        format: markdown
+    label: Body
+  - name: image
+    type: text
+    config:
+      required: false
+    label: Image
+  label: Introduction
 - name: section_one
   type: field_group
   config: {}
