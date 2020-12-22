@@ -17,29 +17,32 @@ section_one:
   - body: Lorem, ipsum dolor sit amet consectetur adipisicing elit. Inventore a in
       nemo vel, dolor quia alias voluptatum, exercitationem earum veritatis numquam
       beatae fuga, quo nisi quam itaque! Officia, repudiandae libero!
-    image: "/uploads/demo-3.png"
-    heading: Integrated Debugging
-  - heading: Integrated Debugging
+    image: "/uploads/time.svg"
+    heading: Save Time
+  - heading: Return on Investment
     body: Lorem, ipsum dolor sit amet consectetur adipisicing elit. Inventore a in
       nemo vel, dolor quia alias voluptatum, exercitationem earum veritatis numquam
       beatae fuga, quo nisi quam itaque! Officia, repudiandae libero!
-    image: "/uploads/demo-1.png"
-  - heading: Integrated Debugging
+    image: "/uploads/money.svg"
+  - heading: Quality Support
     body: Lorem, ipsum dolor sit amet consectetur adipisicing elit. Inventore a in
       nemo vel, dolor quia alias voluptatum, exercitationem earum veritatis numquam
       beatae fuga, quo nisi quam itaque! Officia, repudiandae libero!
-    image: "/uploads/demo-2.png"
+    image: "/uploads/gear.svg"
 home_page_service:
   featured:
   - heading: Branding
     text: Establish your online presence
     link: "/services"
+    image: ''
   - heading: Social Media
     text: Grow your social presence
     link: "/services"
+    image: ''
   - link: "/services"
     heading: Videography
     text: Professional videos for your business
+    image: ''
 introduction:
   subtitle: About
   heading: The Best in the Industry
