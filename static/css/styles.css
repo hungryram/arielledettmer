@@ -4,6 +4,14 @@
     }
 }
 
+.accent {
+    color: #e87931;
+}
+
+body {
+    background: url("/uploads/dots3.png") no-repeat center;
+}
+
 /* GLOBAL */
 
 div.notification {

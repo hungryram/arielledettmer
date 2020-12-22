@@ -1,0 +1,19 @@
+{{ define "main" }}
+<div class="section">
+    <div class="container">
+        {{ range .Params.services }}
+        <div class="columns card mt-4 is-vcentered">
+            <div class="column">
+                <div class="image">
+                    <img src="{{ .image }}" alt="Services" style="object-fit:cover;height:300px;width:100%;">
+                </div>
+            </div>
+            <div class="column">
+                <h1 class="title is-6 accent">{{ .heading }}</h1>
+                <p>{{ .body | markdownify }}</p>
+            </div>
+        </div>
+        {{ end }}
+    </div>
+</div>
+{{ end }}
