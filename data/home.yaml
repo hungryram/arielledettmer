@@ -31,22 +31,40 @@ section_one:
 home_page_service:
   featured:
   - heading: Branding
-    text: Establish your online presence
+    text: 'Establish your online presence with our branding services. Schedule a consultation
+      today to get your brand package. '
     link: "/services"
     image: ''
   - heading: Social Media
-    text: Grow your social presence
+    text: 'Grow your social media presence with our social media managers. We currently
+      offer the following platforms to be managed: Instagram, Tik Tok, Pinterest,
+      Youtube'
     link: "/services"
     image: ''
   - link: "/services"
-    heading: Videography
-    text: Professional videos for your business
+    heading: Product Photography & Videography
+    text: Get high quality, professional photos and videos for your business. Ranging
+      from product photography to company headshots or even lifestyle shoots, SOMEDA
+      by AE can bring any idea to life.
+    image: ''
+  - heading: Graphic Design
+    text: Let your social media pop with our graphics. After a brand consultation,
+      SOMEDA by AE can bring your brand's message to life. Whether it's a giveaway
+      announcement, podcast release, or inspiring your audience, we have you covered.
+    link: "/graphics"
+    image: ''
+  - heading: Custom Logos
+    text: Let your brand stand out with a custom logo. Logos are designed just for
+      your brand and you can follow the process each step of the way.
+    link: "/logo"
     image: ''
 introduction:
-  subtitle: About
-  heading: The Best in the Industry
-  body: |-
-    Lorem ipsum dolor, sit amet consectetur adipisicing elit. Incidunt quae suscipit eveniet sint veniam, perferendis optio voluptates inventore assumenda, mollitia aliquam aut dolore minima, odio tempora neque. Nostrum, natus tenetur.
-
-    Lorem ipsum dolor sit amet consectetur adipisicing elit. Harum deleniti perspiciatis debitis odio similique nobis, unde pariatur? Sit illum ratione ab laboriosam repellendus vel eius? Impedit fuga quis neque quibusdam.
+  subtitle: About SOMEDA by AE
+  heading: Social Media Marketing Made Easy
+  body: 'SOMEDA by AE was founded after our own experience building our individual
+    photography and graphic design businesses. There''s so much more to just "posting
+    on Instagram, which is why SOMEDA by AE brands ourselves to helping you create
+    the best digital marketing materials for your company. From social media management
+    to product photography to custom logos, there''s nothing SOMEDA by AE can''t do
+    for you. '
   image: ''
