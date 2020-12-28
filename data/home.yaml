@@ -1,10 +1,9 @@
 ---
 hero:
   image: ''
-  heading: Welcome to Someda Marketing and Design
-  body: Lorem, ipsum dolor sit amet consectetur adipisicing elit. Inventore a in nemo
-    vel, dolor quia alias voluptatum, exercitationem earum veritatis numquam beatae
-    fuga, quo nisi quam itaque! Officia, repudiandae libero!
+  heading: Welcome to SOMEDA by AE
+  body: 'SOMEDA by AE is a social media marketing company offering digital marketing
+    material''s to grow your companies digital footprint. '
   link: "/contact"
   link_text: Start Trial
 section_one:
