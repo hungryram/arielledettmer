@@ -1,17 +1,25 @@
 +++
-body = "All the marketing and brand support you'll need for your business to grow. Contact us for a free consultation on how we can help."
+body = "All the marketing and brand support you'll need for your business to grow. Contact us for a free consultation on how we can help. "
 title = "Our Services"
 [[services]]
-body = "Your brand is more than a name, logo, and some friendly colors. Sure, we do all of that, but it’s the feeling your brand evokes that gives it staying power. That's where Gigasavvy comes in. We build brands that cut through the noise and connect with people on an emotional level to establish long term affinity, loyalty, and business performance."
-heading = "BRAND"
+body = "Your brand is more than a name, logo, and a color palette. Sure, we do all of that, but it’s the feeling your brand evokes that gives it staying power. We build brands that cut through the noise and connect with people on an emotional level to establish long term affinity, loyalty, and business performance."
+heading = "BRANDING PACKAGES"
 image = "/uploads/meeting.jpg"
 [[services]]
-body = "Create and implement social strategic marketing plans that increase reach and authentic engagement."
+body = " We create and implement social strategic marketing plans that increase reach and authentic engagement. We keep with the trends, so you don't have to, and use those to help you grow."
 heading = "SOCIAL MEDIA MARKETING"
 image = "/uploads/contact-hungry-ram.jpg"
 [[services]]
-body = "Make Your Visitors Into Clients. Get 500% ROI With Custom Videos and Photography of your products and services."
-heading = "VIDEO & PHOTOGRAPHY"
+body = "Bring your products and company to life with product photography and videography. Our team has over 5+ years of experience and brings your ideas to life."
+heading = "PRODUCT PHOTOGRAPHY & VIDEOGRAPHY"
 image = "/uploads/campaign-creators-qci_mzvodou-unsplash.jpg"
+[[services]]
+body = "Let your social media pop with our graphics. Launching a new product? Let's make that heard! Our graphics are more than just a few words put on an image, it's your brand made into something for everyone to see and share. "
+heading = "GRAPHIC DESIGN"
+image = "/uploads/jeff-sheldon-9di3g8owhii-unsplash.jpg"
+[[services]]
+body = "Have an idea for a logo that you just can't seem to get perfect? Let us help you design your custom logo! The logo is the stamp, a trademark, of your brand and we get that. That's why we have 24/7 communication with our clients each step of the way when designing logos. "
+heading = "CUSTOM LOGOS"
+image = "/uploads/kobu-agency-pvmvecxvow0-unsplash.jpg"
 
 +++
