@@ -18,7 +18,7 @@ body = "After a brand consultation, SOMEDA by AE can bring your brand's message 
 heading = "GRAPHIC DESIGN"
 image = "/uploads/jeff-sheldon-9di3g8owhii-unsplash.jpg"
 [[services]]
-body = "Have an idea for a logo that you just can't seem to get perfect? Let us help you design your custom logo! The logo is the stamp, a trademark, of your brand and we get that. That's why we have 24/7 communication with our clients each step of the way when designing logos. "
+body = "Have an idea for a logo that you just can't seem to get perfect? Let us help you design your custom logo! The logo is the stamp, a trademark, of your brand and we get that. That's why we have clear communication with our clients each step of the way when designing logos. "
 heading = "CUSTOM LOGOS"
 image = "/uploads/kobu-agency-pvmvecxvow0-unsplash.jpg"
 
