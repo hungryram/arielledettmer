@@ -28,14 +28,11 @@ section_one:
 home_page_service:
   featured:
   - heading: Branding
-    text: 'Establish your online presence with our branding services. Schedule a consultation
-      today to get your brand package. '
+    text: 'Establish your online presence with our branding services. '
     link: "/services"
     image: ''
   - heading: Social Media
-    text: 'Grow your social media presence with our social media managers. We currently
-      offer the following platforms to be managed: Instagram, Tik Tok, Pinterest,
-      Youtube'
+    text: 'Grow your social media presence with our social media managers. '
     link: "/services"
     image: ''
   - link: "/services"
