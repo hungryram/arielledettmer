@@ -44,8 +44,7 @@ home_page_service:
     link: "/graphics"
     image: ''
   - heading: Custom Logos
-    text: Let your brand stand out with a custom logo. Logos are designed just for
-      your brand and you can follow the process each step of the way.
+    text: 'Let your brand stand out with a custom logo. '
     link: "/logo"
     image: ''
 introduction:
