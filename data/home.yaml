@@ -37,9 +37,7 @@ home_page_service:
     image: ''
   - link: "/services"
     heading: Product Photography & Videography
-    text: Get high quality, professional photos and videos for your business. Ranging
-      from product photography to company headshots or even lifestyle shoots, SOMEDA
-      by AE can bring any idea to life.
+    text: 'Get high quality, professional photos and videos for your business. '
     image: ''
   - heading: Graphic Design
     text: Let your social media pop with our graphics. After a brand consultation,
