@@ -6,11 +6,11 @@ body = "Your brand is more than a name, logo, and a color palette. Sure, we do a
 heading = "BRANDING PACKAGES"
 image = "/uploads/meeting.jpg"
 [[services]]
-body = " We create and implement social strategic marketing plans that increase reach and authentic engagement. We keep with the trends, so you don't have to, and use those to help you grow."
+body = "We create and implement social strategic marketing plans that increase reach and authentic engagement. We keep with the trends, so you don't have to, and use those to help you grow. SOMEDA by AE currently offers the following platforms to be managed: Instagram, Tik Tok, Pinterest, Youtube"
 heading = "SOCIAL MEDIA MARKETING"
 image = "/uploads/contact-hungry-ram.jpg"
 [[services]]
-body = "Bring your products and company to life with product photography and videography. Our team has over 5+ years of experience and brings your ideas to life."
+body = "Bring your products and company to life with product photography and videography. Our team has over 5+ years of experience in photography and videography. Ranging from product photography to company headshots or even lifestyle shoots, SOMEDA by AE can bring any idea to life."
 heading = "PRODUCT PHOTOGRAPHY & VIDEOGRAPHY"
 image = "/uploads/campaign-creators-qci_mzvodou-unsplash.jpg"
 [[services]]
