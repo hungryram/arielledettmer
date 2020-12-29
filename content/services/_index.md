@@ -14,7 +14,7 @@ body = "Bring your products and company to life with product photography and vid
 heading = "PRODUCT PHOTOGRAPHY & VIDEOGRAPHY"
 image = "/uploads/campaign-creators-qci_mzvodou-unsplash.jpg"
 [[services]]
-body = "Let your social media pop with our graphics. Launching a new product? Let's make that heard! Our graphics are more than just a few words put on an image, it's your brand made into something for everyone to see and share. "
+body = "After a brand consultation, SOMEDA by AE can bring your brand's message to life. Whether it's a giveaway announcement, podcast release, or inspiring your audience, we have you covered. Our graphics are more than just a few words put on an image, it's your brand made into something for everyone to see and share. "
 heading = "GRAPHIC DESIGN"
 image = "/uploads/jeff-sheldon-9di3g8owhii-unsplash.jpg"
 [[services]]
