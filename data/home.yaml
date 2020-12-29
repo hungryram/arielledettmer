@@ -40,9 +40,7 @@ home_page_service:
     text: 'Get high quality, professional photos and videos for your business. '
     image: ''
   - heading: Graphic Design
-    text: Let your social media pop with our graphics. After a brand consultation,
-      SOMEDA by AE can bring your brand's message to life. Whether it's a giveaway
-      announcement, podcast release, or inspiring your audience, we have you covered.
+    text: 'Let your social media pop with our graphics. '
     link: "/graphics"
     image: ''
   - heading: Custom Logos
