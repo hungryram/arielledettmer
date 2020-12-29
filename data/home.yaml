@@ -8,25 +8,22 @@ hero:
   link_text: Start Trial
 section_one:
   heading: We Love What We Do
-  body: Lorem, ipsum dolor sit amet consectetur adipisicing elit. Inventore a in nemo
-    vel, dolor quia alias voluptatum, exercitationem earum veritatis numquam beatae
-    fuga, quo nisi quam itaque! Officia, repudiandae libero!Lorem, ipsum dolor sit
-    amet consectetur adipisicing elit.
+  body: 'It''s more than just posting frequently and using hashtags. It''s about building
+    a brand and an authentic audience with it. '
   group:
-  - body: Lorem, ipsum dolor sit amet consectetur adipisicing elit. Inventore a in
-      nemo vel, dolor quia alias voluptatum, exercitationem earum veritatis numquam
-      beatae fuga, quo nisi quam itaque! Officia, repudiandae libero!
+  - body: Running a business is time consuming, but doing all this alongside it is
+      extra time consuming. Let us help you save time so you can focus on your business
+      while we help you grow online.
     image: "/uploads/time.svg"
     heading: Save Time
-  - heading: Return on Investment
-    body: Lorem, ipsum dolor sit amet consectetur adipisicing elit. Inventore a in
-      nemo vel, dolor quia alias voluptatum, exercitationem earum veritatis numquam
-      beatae fuga, quo nisi quam itaque! Officia, repudiandae libero!
+  - heading: Real People, Real Prices
+    body: Money doesn't grow on trees and we understand that. That's why we stay realistic
+      with our rates and packages, so you can get the best quality and return out
+      there.
     image: "/uploads/money.svg"
   - heading: Quality Support
-    body: Lorem, ipsum dolor sit amet consectetur adipisicing elit. Inventore a in
-      nemo vel, dolor quia alias voluptatum, exercitationem earum veritatis numquam
-      beatae fuga, quo nisi quam itaque! Officia, repudiandae libero!
+    body: 'Our team is just a phone call or text away if you need help. We wish we
+      could say 24/7, but sometimes we do have to sleep. '
     image: "/uploads/gear.svg"
 home_page_service:
   featured:
