@@ -2,10 +2,10 @@
 hero:
   image: ''
   heading: Welcome to SOMEDA by AE
-  body: 'SOMEDA by AE is a social media marketing company offering digital marketing
-    material''s to grow your companies digital footprint. '
+  body: SOMEDA by AE is a content creation agency for the driven offering services
+    to grow your company in the digital space
   link: "/contact"
-  link_text: Start Trial
+  link_text: Schedule your consultation today
 section_one:
   heading: We Love What We Do
   body: 'It''s more than just posting frequently and using hashtags. It''s about building
@@ -27,21 +27,21 @@ section_one:
     image: "/uploads/gear.svg"
 home_page_service:
   featured:
-  - heading: Branding
-    text: 'Establish your online presence with our branding services. '
-    link: "/services"
-    image: ''
   - heading: Social Media
     text: 'Grow your social media presence with our social media managers. '
     link: "/services"
+    image: ''
+  - heading: Graphic Design
+    text: 'Let your social media pop with our graphics. '
+    link: "/graphics"
     image: ''
   - link: "/services"
     heading: Product Photography & Videography
     text: 'Get high quality, professional photos and videos for your business. '
     image: ''
-  - heading: Graphic Design
-    text: 'Let your social media pop with our graphics. '
-    link: "/graphics"
+  - heading: Branding
+    text: 'Establish your online presence with our branding services. '
+    link: "/services"
     image: ''
   - heading: Custom Logos
     text: 'Let your brand stand out with a custom logo. '
